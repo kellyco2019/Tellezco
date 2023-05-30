@@ -10,5 +10,4 @@ export const tasks =[
 {id:2,
  name: "Task 3",
  description: "hacer codigo"  },
-
 ] 
